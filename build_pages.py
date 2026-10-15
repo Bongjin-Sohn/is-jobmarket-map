@@ -9,7 +9,7 @@ import pathlib
 
 SRC = pathlib.Path(
     "/Users/andrewsohn/Library/CloudStorage/Dropbox/3. School Dock/"
-    "3_Doctoral & Job Market/Job market placement/"
+    "3_Doctoral & Job Market/00_Job market placement/"
     "00_R1_job_market_map/pipeline/artifact.html"
 )
 OUT = pathlib.Path(__file__).with_name("index.html")
